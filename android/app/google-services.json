@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005810087329",
+    "project_id": "nurserycare-ed521",
+    "storage_bucket": "nurserycare-ed521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005810087329:android:184d9e541542ca60f647e0",
+        "android_client_info": {
+          "package_name": "com.example.nurserycare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrQEdOkcAdPggywnf29sa8evAVebWRwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
